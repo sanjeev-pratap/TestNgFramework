@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://F:/Software/extentreports-java-3.1.3/extentreports-java-3.1.3/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://F:/Software/extentreports-java-3.1.3/extentreports-java-3.1.3/lib" recursive="false" />
+  </library>
+</component>
